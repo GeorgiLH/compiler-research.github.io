@@ -34,6 +34,7 @@ OpenMP
 PTX
 QNAME
 RAII
+Ramtools
 RNAME
 Resugaring
 SBO
@@ -76,12 +77,14 @@ oop
 pushforward
 pythonized
 ramview
+ramtools
 ramntupleview
 reoptimize
 rntuple
 samtools
 samtoramntuple
 sbo
+samply
 sitemap
 softsusy
 superbuilds
