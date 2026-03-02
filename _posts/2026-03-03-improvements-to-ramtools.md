@@ -53,7 +53,7 @@ and maintain compatibility.
 2. C++ implemented multithreading
 The ROOT implementation some features which might not lead to a significant decrease
 in speeds on certain platforms and/or use cases. Thats why I plan to research a
-personal implementation of the multithrading functionality.
+personal implementation of the multithreading functionality.
 
 ## Project goals
 1.Set up a benchmark to check and record current speeds
